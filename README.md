@@ -6,6 +6,8 @@ I am Dionmax, currently in the last year of my bachelor's degree in computer sci
 - 📑 I'm enthusiastic with algorithm complexity, code optimization, data science... SCIENCE!!
 - 😀 I like to program, read, play games ... sleep, I think a lot, ok?
 - ⚡ Fun fact: In the end, everything is nothing more than zero and one.
+- 📫 How to reach me: [dionmaxfn@gmail.com](mailto:dionmaxfn@gmail.com)
+- 🔗 Linkedin: [Dionmax](https://www.linkedin.com/in/dionmax/)
 
 <p>
   <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
