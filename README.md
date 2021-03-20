@@ -42,5 +42,5 @@ I am Dionmax, currently in the last year of my bachelor's degree in computer sci
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dionmax&show_icons=true&theme=midnight-purple&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dionmax&layout=compact&langs_count=6&theme=midnight-purple&hide=html,C,CMake" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dionmax&layout=compact&langs_count=6&theme=midnight-purple&hide=html,C,CMake" />
 </a>
