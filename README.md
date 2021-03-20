@@ -36,7 +36,7 @@ I am Dionmax, currently in the last year of my bachelor's degree in computer sci
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </p>
 
-
+<!---
 ### ⚙️ GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dionmax&show_icons=true&theme=midnight-purple&count_private=true" />
@@ -44,3 +44,4 @@ I am Dionmax, currently in the last year of my bachelor's degree in computer sci
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dionmax&layout=compact&langs_count=6&theme=midnight-purple&hide=html,C,CMake" />
 </a>
+--->
