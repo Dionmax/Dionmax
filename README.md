@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Dionmax, currently in the last year of my bachelor's degree in computer science, and I am working on software development at GeoSapiens Tecnologia e Informação remotely due to the situation in Brazil. I consider myself a person who likes to learn new ways to improve something, with great interest in the area of algorithm complexity and code optimization. I have always found it easy to work in groups and learn new methods of work and technology.
+I'm Dionmax, BA in Computer Science, working on software development at GeoSapiens Tecnologia e Informação remotely. I consider myself a person who likes to learn new ways to improve something, with great interest in the area of algorithm complexity and code optimization. I find it easy to work in groups and learn new working methods and technology.
 
 - 🔭 I’m currently working at **@geosapiens**
 - 📑 I'm enthusiastic with algorithm complexity, code optimization, data science... SCIENCE!!
-- 😀 I like to program, read, play games ... sleep, I think a lot, ok?
+- 😀 I like to program, read, play games ... sleep a lot...
 - ⚡ Fun fact: In the end, everything is nothing more than zero and one.
 - 📫 How to reach me: [dionmaxfn@gmail.com](mailto:dionmaxfn@gmail.com)
 - 🔗 Linkedin: [Dionmax](https://www.linkedin.com/in/dionmax/)
