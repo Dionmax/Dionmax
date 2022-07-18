@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img align='right' src="https://c.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="250">
-
 I'm Dionmax, BA in Computer Science, working on software development at GeoSapiens Tecnologia e Informação remotely. I consider myself a person who likes to learn new ways to improve something, with great interest in the area of algorithm complexity and code optimization. I find it easy to work in groups and learn new working methods and technology.
+
+<img align='right' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" width="200">
 
 - 🔭 I’m currently working at **@geosapiens**
 - 📑 I'm enthusiastic with algorithm complexity, code optimization, data science... SCIENCE!!
