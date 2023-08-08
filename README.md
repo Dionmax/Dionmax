@@ -4,7 +4,6 @@ I'm Dionmax, BA in Computer Science. I consider myself a person who likes to lea
 
 <img align='right' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" width="200">
 
-- 🔭 I’m currently working at **@geosapiens**
 - 📑 I'm enthusiastic with algorithm complexity, code optimization, data science... SCIENCE!!
 - 😀 I like to program, read, play games ... sleep a lot...
 - ⚡ Fun fact: In the end, everything is nothing more than zero and one.
