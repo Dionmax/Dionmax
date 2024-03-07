@@ -9,7 +9,7 @@ I'm Dionmax, BA in Computer Science. I consider myself a person who likes to lea
 - ⚡ Fun fact: In the end, everything is nothing more than zero and one.
 - 📫 How to reach me: [dionmaxfn@gmail.com](mailto:dionmaxfn@gmail.com)
 - 🔗 Linkedin: [Dionmax](https://www.linkedin.com/in/dionmax/)
-- Personal Portfolio: [dionmax.dev](https://www.dionmax.dev)
+- 💻 Personal Portfolio: [dionmax.dev](https://www.dionmax.dev)
 
 ### 🛠 &nbsp;Tech Stack
 
