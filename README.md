@@ -2,59 +2,173 @@
 
 I'm Dionmax, BA in Computer Science. I consider myself a person who likes to learn new ways to improve something, with great interest in the area of algorithm complexity and code optimization. I find it easy to work in groups and learn new working methods and technology.
 
-<img align='right' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" width="200">
+<img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" width="200">
 
 - 📑 I'm enthusiastic with algorithm complexity, code optimization, data science... SCIENCE!!
 - 😀 I like to program, read, play games ... sleep a lot...
 - ⚡ Fun fact: In the end, everything is nothing more than zero and one.
 - 📫 How to reach me: [dionmaxfn@gmail.com](mailto:dionmaxfn@gmail.com)
 - 🔗 Linkedin: [Dionmax](https://www.linkedin.com/in/dionmax/)
+- Personal Portfolio: [dionmax.dev](https://www.dionmax.dev)
 
-<p>
-  <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code">
-  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Rstudio-75AADB?logo=RStudio&style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999">
-  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white">
-  <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
-  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
-</p>
+### 🛠 &nbsp;Tech Stack
 
-<!---
-### ⚙️ GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dionmax&show_icons=true&theme=midnight-purple&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dionmax&layout=compact&langs_count=6&theme=midnight-purple&hide=html,C,CMake" />
-</a>
---->
+<table>
+  <tr>
+		<tr>
+			<td>Programming Languages</td>
+			<td>
+        <a href="https://www.php.net/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+        </a>      
+				<a href="https://www.python.org" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        </a>
+        <a href="https://dotnet.microsoft.com/en-us/languages/csharp/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+        </a>
+				<a href="https://www.java.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+        </a>
+				<a href="https://www.typescriptlang.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+        </a>
+				<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+        </a>
+        <a href="https://cplusplus.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
+        </a>
+        <a href="https://jupyter.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+        </a>
+			</td>
+		</tr>
+		<tr>
+			<td>Frontend Development</td>
+			<td>
+				<a href="https://react.dev/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+        </a>
+				<a href="https://redux.js.org" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+        </a>
+        <a href="https://nextjs.org/" target="_blank">
+          <img src="https://hendrixer.github.io/nextjs-course/44f073f9132a0459819eae6afa5b3807/next_with_bg.svg" alt="nextjs" width="40" height="40"/>
+        </a>
+         <a href="https://angular.io/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>
+        </a>
+        <a href="https://tailwindcss.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
+        </a>
+				<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
+        </a>
+				<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
+        </a>
+			</td>
+		</tr>
+		<tr>
+			<td>Backend Development</td>
+			<td>
+        <a href="https://symfony.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" alt="symfony" width="40" height="40"/>
+        </a>
+				<a href="https://nodejs.org" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+        </a>
+				<a href="https://stackoverflow.com/questions/671118/what-exactly-is-restful-programming" target="_blank">
+          <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/rest-api-1-570529.png" alt="restful api" width="40" height="40"/>
+        </a>
+				<a href="https://graphql.org" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+        </a>
+				<a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/>
+        </a>
+        <a href="https://nestjs.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
+        </a>
+			</td>
+		</tr>
+		<tr>
+			<td>Database</td>
+			<td>
+				<a href="https://www.postgresql.org" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+        </a>
+				<a href="https://www.mysql.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+        </a>
+				<a href="https://www.mongodb.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+        </a>
+        <a href="https://www.sqlite.org/" target="_blank">
+					<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/>
+				</a>
+				<a href="https://redis.io/" target="_blank">
+					<img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/>
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>Devops and Cloud</td>
+			<td>
+				<a href="https://www.docker.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+        </a>
+				<a href="https://github.com/features/actions" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github actions" width="40" height="40"/>
+        </a>
+				<a href="https://aws.amazon.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+        </a>
+				<a href="https://azure.microsoft.com/en-in/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+        </a>
+			</td>
+		</tr>
+    <tr>
+			<td>Microservices and Version Control</td>
+			<td>
+				<a href="https://www.github.com/" target="_blank">
+				<img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
+				</a>
+				<a href="https://www.gitlab.com/" target="_blank">
+				<img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" width="40" height="40"/>
+				</a>
+				<a href="https://git-scm.com/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+        </a>
+			</td>
+		</tr>
+	</tr>
+</table>
+
+## 🌱 Metrics
+
+<div style="
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+">
+  <div>
+    <a href="https://github.com/dionmax/dionmax/blob/main/metrics.svg">
+      <img src="./metrics.svg" width="400rem" alt=""/>
+    </a>
+    <p>
+      <img align="center" height="141rem" src="https://github-readme-streak-stats.herokuapp.com/?user=dionmax&theme=buefy-dark" alt="" />
+    </p>
+    <p>
+      <img align="center" height="150rem" src="https://github-readme-stats.vercel.app/api?username=dionmax&show_icons=true&theme=radical" alt="" />
+    </p>
+  </div>
+  <div>
+    <p>
+  <img align="center" height="275rem"  src="https://github-readme-stats.vercel.app/api/top-langs?username=dionmax&show_icons=true&layout=compact&langs_count=25" alt=""/>
+  </p>
+  </div>
+</div>
