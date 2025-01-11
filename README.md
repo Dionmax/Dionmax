@@ -14,9 +14,9 @@ I'm **Dionmax Figueiredo Nobre**, a Computer Science graduate passionate about *
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-#### **Programming Languages**
+### **Programming Languages**
 <p>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
@@ -26,13 +26,13 @@ I'm **Dionmax Figueiredo Nobre**, a Computer Science graduate passionate about *
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
 </p>
 
-#### **Frameworks & Tools**
+### **Frameworks & Tools**
 
 ##### **Frontend Development**
 <p>
 <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
 <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://hendrixer.github.io/nextjs-course/44f073f9132a0459819eae6afa5b3807/next_with_bg.svg" alt="Next.js" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40"/></a>
 </p>
 
@@ -61,15 +61,29 @@ I'm **Dionmax Figueiredo Nobre**, a Computer Science graduate passionate about *
 ---
 
 ### 🌱 Metrics
-<div align="center">
 
-<p>
-  <img align="center" height="150rem" src="https://github-readme-stats.vercel.app/api?username=dionmax&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p>
-  <img align="center" height="141rem" src="https://github-readme-streak-stats.herokuapp.com/?user=dionmax&theme=buefy-dark" alt="GitHub Streak Stats" />
-</p>
-<p>
-  <img align="center" height="275rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=dionmax&show_icons=true&layout=compact&langs_count=25" alt="Top Languages" />
-</p>
+Here are some of my GitHub stats and contributions:
+
+<div align="left">
+  <p>
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=dionmax&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img height="150rem" src="https://github-readme-streak-stats.herokuapp.com/?user=dionmax&theme=buefy-dark" alt="GitHub Streak Stats" />
+  </p>
+  <p>
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=dionmax&show_icons=true&layout=compact&langs_count=8" alt="Top Languages" />
+  </p>
 </div>
+
+---
+
+### 🏆 Trophies
+
+<img height="150rem" style="margin: 10px;" src="https://github-profile-trophy.vercel.app/?username=dionmax&theme=radical&row=1&column=6" alt="GitHub Trophies" />
+
+---
+
+## 🔥 Featured Projects
+
+- [Personal Portfolio](https://www.dionmax.dev/pt): More about me.
