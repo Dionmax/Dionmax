@@ -82,7 +82,7 @@ Here are some of my GitHub stats and contributions:
 
 ### 🏆 Trophies
 
-<img height="150rem" style="margin: 10px;" src="https://github-profile-trophy.vercel.app/?username=dionmax&theme=radical&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=dionmax&theme=radical&row=1&column=5&margin-w=20" />
 
 ---
 
