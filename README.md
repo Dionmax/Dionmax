@@ -64,21 +64,19 @@ I'm **Dionmax Figueiredo Nobre**, a Computer Science graduate passionate about *
 
 Here are some of my GitHub stats and contributions:
 
-<div style="display: flex;">
-  <div align="left">
-  <p>
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=dionmax&show_icons=true&theme=radical&langs_count=8" alt="Top Languages" />
-  </p>
-</div>
-<div align="left">
-  <p>
-    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=dionmax&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </p>
-  <p>
-     <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=dionmax&theme=radical" width="73%" alt="GitHub Streak Stats" />
-  </p>
-</div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dionmax&show_icons=true&theme=radical&langs_count=8" alt="Top Languages" />
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>
+      <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=dionmax&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <br>
+      <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=dionmax&theme=radical" width="73%" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
