@@ -73,7 +73,7 @@ Here are some of my GitHub stats and contributions:
     <td>
       <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=dionmax&show_icons=true&theme=radical" alt="GitHub Stats" />
       <br>
-      <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=dionmax&theme=radical" width="80%" alt="GitHub Streak Stats" />
+      <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=dionmax&theme=radical" width="79%" alt="GitHub Streak Stats" />
     </td>
   </tr>
 </table>
