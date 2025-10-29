@@ -64,16 +64,20 @@ I'm **Dionmax Figueiredo Nobre**, a Computer Science graduate passionate about *
 
 Here are some of my GitHub stats and contributions:
 
+<div style="display: flex;">
+  <div align="left">
+  <p>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=dionmax&show_icons=true&theme=radical&langs_count=8" alt="Top Languages" />
+  </p>
+</div>
 <div align="left">
   <p>
     <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=dionmax&show_icons=true&theme=radical" alt="GitHub Stats" />
   </p>
   <p>
-    <img height="150rem" src="https://github-readme-streak-stats.herokuapp.com/?user=dionmax&theme=buefy-dark" alt="GitHub Streak Stats" />
+     <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=dionmax&theme=radical" width="73%" alt="GitHub Streak Stats" />
   </p>
-  <p>
-    <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=dionmax&show_icons=true&layout=compact&langs_count=8" alt="Top Languages" />
-  </p>
+</div>
 </div>
 
 ---
